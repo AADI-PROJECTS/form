@@ -1,3 +1,3 @@
 # form
-click here for lang the web site
+Visit our website now
 https://aadi-projects.github.io/form/
